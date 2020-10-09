@@ -13,3 +13,12 @@ As part of this assignment we adopt a hypothetical business case: The stakeholde
 There is a second part to this business case. Kickstarter earns a comission from the pledges of every successful project. If we can provide a model that accurately predicts which campaigns will succeed and which fail, Kickstarter could promote the promising campaigns on their homepage and expose more potential backers to these specific campaigns, ensuring a higher backer count, more pledges and a larger comission. 
 
 With this business case in mind, we will investigate the accompanying data in an exploratory data analysis and then train different machine learning models on it, choosing the one that best predicts success.
+
+## Files and Directories
+
+In this repository there are the following files and folders:
+
+* **data/** - A directory containing the provided raw data that was originally split up into 56 different .csv-files.
+* **images/** - A directory containing all images created during the project as .png-files. Files created in the notebook are saves here. The images are used in the final presentation.
+* **Notebook_Kickstarter_prediction.ipynb** - The notebook that documents this project. The data cleaning, exploratory data analysis, model training as well as model evaluation are all performed and commented on in here.
+* **Presentation.pdf** - The summary of findings of this project. These findings were presented in the context of the neuefische data science bootcamp
