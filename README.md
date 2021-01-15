@@ -14,6 +14,11 @@ There is a second part to this business case. Kickstarter earns a comission from
 
 With this business case in mind, we will investigate the accompanying data in an exploratory data analysis and then train different machine learning models on it, choosing the one that best predicts success.
 
+<table><tr>
+<td> <img align="center" src="images/Wordcloud_Success.png" width="500" /> </td>
+<td> <img align="center" src="images/Wordcloud_Fail.png" width="500" /> </td>
+</tr></table>
+
 ## Files and Directories
 
 In this repository there are the following files and folders:
